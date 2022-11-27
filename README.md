@@ -4,7 +4,8 @@
 
 1.Hammurabi: https://github.com/AnastasijaShahova/HammurabiGame   
 2.DynamicArray: https://github.com/AnastasijaShahova/DynamicArray  
-3.QuickSort: 
+3.QuickSort: https://github.com/AnastasijaShahova/QuickAndInsertionSort/tree/main  
+
 
 
 
